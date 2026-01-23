@@ -1,5 +1,8 @@
 numpy
 matplotlib
-librosa
 soundfile
+librosa
+scipy
+pyAudioAnalysis
+tqdm
 ipython
