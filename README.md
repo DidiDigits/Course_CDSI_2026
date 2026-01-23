@@ -1,30 +1,30 @@
 # Course_CDSI_2026
-# Data Science for Intelligent Sensors
+# Ciencia de Datos para Sensores Inteligentes
 
-This repository contains the material developed during the course **Data Science for Intelligent Sensors**. It serves as a record of assignments, lab practices, and experiments focused on data analysis and machine learning techniques applied to sensor data.
+Este repositorio contiene el material desarrollado durante el curso **Ciencia de Datos para Sensores Inteligentes**. Sirve como un registro de tareas, prácticas de laboratorio y experimentos enfocados en el análisis de datos y en el uso de técnicas de aprendizaje automático aplicadas a datos provenientes de sensores.
 
-## Contents
+## Contenido
 
-* 📁 **Assignments**: Homework and theoretical exercises
-* 🔬 **Lab Practices**: Practical sessions related to sensor data acquisition and analysis. 
-* 📊 **Projects / Experiments**: Applied work integrating concepts from the course
+* 📁 **Tareas**: Ejercicios y actividades teóricas
+* 🔬 **Prácticas de laboratorio**: Sesiones prácticas relacionadas con la adquisición y el análisis de datos de sensores
+* 📊 **Proyectos / Experimentos**: Trabajos aplicados que integran conceptos vistos en el curso
 
-Documented code for data exploration, visualization, preprocessing, and modeling in Python is documented in Jupyter Notebooks.
+El código para la exploración de datos, visualización, preprocesamiento y análisis en Python se encuentra documentado en **Jupyter Notebooks**.
 
-## Tools and Technologies
+## Herramientas y Tecnologías
 
 * Python
 * Jupyter Notebook
 
-## Purpose
+## Propósito
 
-This repository is intended for **academic use** and documents the learning process and skill development throughout the course.
+Este repositorio tiene un **uso académico** y documenta el proceso de aprendizaje y el desarrollo de habilidades a lo largo del curso.
 
-## Instructors
+## Profesores
 
 * Hussein
 * Favela
 
 ---
 
-*Course repository maintained by the student.*
+*Repositorio del curso mantenido por la estudiante. Para más información contactar a : sotocd@cicese.edu.mx*
