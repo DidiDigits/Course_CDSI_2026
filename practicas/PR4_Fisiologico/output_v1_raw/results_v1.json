@@ -1,0 +1,67 @@
+{
+  "version": "V1_raw",
+  "metrics": {
+    "accuracy": 0.9473684210526315,
+    "precision": 1.0,
+    "recall": 0.8275862068965517,
+    "f1_macro": 0.9345820134967635,
+    "roc_auc": 0.968652037617555
+  },
+  "shap_ranking": [
+    {
+      "feature": "offer_amount",
+      "mean_abs_shap": 0.210662
+    },
+    {
+      "feature": "sdnn",
+      "mean_abs_shap": 0.019011
+    },
+    {
+      "feature": "hr_std",
+      "mean_abs_shap": 0.018347
+    },
+    {
+      "feature": "rmssd",
+      "mean_abs_shap": 0.015456
+    },
+    {
+      "feature": "mean_hr",
+      "mean_abs_shap": 0.013663
+    },
+    {
+      "feature": "gsr_std",
+      "mean_abs_shap": 0.012155
+    },
+    {
+      "feature": "pnn50",
+      "mean_abs_shap": 0.011814
+    },
+    {
+      "feature": "decision_time_s",
+      "mean_abs_shap": 0.010996
+    },
+    {
+      "feature": "mean_eeg_af8",
+      "mean_abs_shap": 0.009003
+    },
+    {
+      "feature": "max_gsr",
+      "mean_abs_shap": 0.008619
+    },
+    {
+      "feature": "mean_eeg_af7",
+      "mean_abs_shap": 0.007017
+    },
+    {
+      "feature": "mean_gsr",
+      "mean_abs_shap": 0.006461
+    }
+  ],
+  "transactions": {
+    "dataset_ingest": "55ce058a20d3a4f1f04338fb35609a29042a50fccd424d1afa8d09261bfef390",
+    "preprocessing": "39d4f2b47005b30e1ee4cc2c43cbab35770fce209b56f38ec33736f521f2bcea",
+    "training": "635b2dc183a57ed65e2205cd825221fc6eb0969a8cdf6e2c4530c44e2fec3428",
+    "explainability": "65f09301701b21fdd0796ed83dfee0f5a080cf3ddf1b3891be9088844397673c",
+    "inference": "f0f8854e27fe9b9040ec700323f98a4afe666637e25dfeedbe5f2509ddb97643"
+  }
+}
