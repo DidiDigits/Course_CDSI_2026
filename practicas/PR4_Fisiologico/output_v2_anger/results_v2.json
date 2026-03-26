@@ -1,0 +1,34 @@
+{
+  "version": "V2_anger",
+  "metrics": {
+    "accuracy": 0.6842105263157895,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_macro": 0.40625,
+    "roc_auc": 0.5248171368861024
+  },
+  "shap_ranking": [
+    {
+      "feature": "sdnn_post",
+      "mean_abs_shap": 0.066774
+    },
+    {
+      "feature": "rmssd_post",
+      "mean_abs_shap": 0.05869
+    },
+    {
+      "feature": "delta_hr",
+      "mean_abs_shap": 0.048301
+    },
+    {
+      "feature": "gsr_change_pct",
+      "mean_abs_shap": 0.030102
+    }
+  ],
+  "transactions": {
+    "preprocessing": "6068b128db033e075847d32d0c5aac888702ca444f8ca86cd269b8e8c77cce6d",
+    "training": "5cc182ab8bb875833902df0ae76d386a41370b3bfdd3874d97a851d900b8f625",
+    "explainability": "9ccbdadc07378ecdf2b37b4e993ec07ac0afc491dbc9031680a18366f69ce1b1",
+    "inference": "840dbcfd3cb15930b5b66575f59d08af208a0011a2c077d9882db7b1e2604f94"
+  }
+}
