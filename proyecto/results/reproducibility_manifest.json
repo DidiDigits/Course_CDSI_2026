@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-04-12T00:25:46",
+  "python_version": "3.12.13 | packaged by Anaconda, Inc. | (main, Mar 19 2026, 20:16:45) [MSC v.1942 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "seed": 42,
+  "project_root": "C:\\Users\\Diana\\git\\Avera\\ProcessData",
+  "data_dir": "C:\\Users\\Diana\\git\\Avera\\ProcessData\\data",
+  "packages": {
+    "numpy": "2.4.3",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.7.1",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2",
+    "scikit-rf": "1.8.0"
+  }
+}
